@@ -1,7 +1,8 @@
-# Regex Data Extraction - ALU Project
+# Data Extraction With Regex
 
-## 🔍 Overview
-This project uses Python and Regular Expressions to extract structured data from large unstructured text. Patterns implemented include:
+## 🔍 Project Overview
+> This project leverages Python and Regular Expressions to extract structured data from extensive unstructured text. The implemented patterns include:
+
 
 - Email addresses
 - URLs
@@ -10,7 +11,7 @@ This project uses Python and Regular Expressions to extract structured data from
 - Currency amounts
 
 ## 🧪 Running the application
-1. Clone the repo:
+1. Clone Repository:
    ```bash
    git clone https://github.com/kamalafidele/alu_regex-data-extraction-kamalafidele.git
    cd alu_regex-data-extraction-kamalafidele
