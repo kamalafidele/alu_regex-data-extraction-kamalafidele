@@ -4,11 +4,11 @@
 > This project leverages Python and Regular Expressions to extract structured data from extensive unstructured text. The implemented patterns include:
 
 
-- Email addresses
-- URLs
 - Phone numbers
 - Credit card numbers
+- Email addresses
 - Currency amounts
+- URLs
 
 ## 🧪 Running the application
 1. Clone Repository:
